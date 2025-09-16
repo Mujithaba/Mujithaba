@@ -69,24 +69,24 @@
 
 ## 🎯 Current Focus & Goals  
 
-### 💡 Currently Focusing On  
-- Project Deployment: Getting all projects live with proper hosting  
-- Testing & Quality: Adding Jest and React Testing Library  
-- Job Applications: Actively seeking junior developer opportunities  
-- Portfolio Development: Building a comprehensive showcase website  
+### 💡 Currently Focusing On
+- ![#FFB800](https://via.placeholder.com/15/FFB800/000000?text=+) **Project Deployment:** Getting all projects live with proper hosting  
+- ![#00C4CC](https://via.placeholder.com/15/00C4CC/000000?text=+) **Testing & Quality:** Adding Jest and React Testing Library  
+- ![#FF6C37](https://via.placeholder.com/15/FF6C37/000000?text=+) **Job Applications:** Actively seeking junior developer opportunities  
+- ![#8A2BE2](https://via.placeholder.com/15/8A2BE2/000000?text=+) **Portfolio Development:** Building a comprehensive showcase website  
 
-### 💼 What I'm Building  
-- 🚀 Deploying existing projects to production  
-- 🔧 Enhancing project documentation and READMEs  
-- 💻 Creating a professional portfolio website  
-- 📝 Writing technical blog posts about my learning journey  
+### 💼 What I'm Building
+- ![#FFB800](https://via.placeholder.com/15/FFB800/000000?text=+) Deploying existing projects to production  
+- ![#00C4CC](https://via.placeholder.com/15/00C4CC/000000?text=+) Enhancing project documentation and READMEs  
+- ![#FF6C37](https://via.placeholder.com/15/FF6C37/000000?text=+) Creating a professional portfolio website  
+- ![#8A2BE2](https://via.placeholder.com/15/8A2BE2/000000?text=+) Writing technical blog posts about my learning journey  
 
-### 🎯 Current Objectives  
-- Land my first developer role by end of 2025  
-- Deploy 4+ production-ready projects with live demos  
-- 📚 Master modern React patterns and TypeScript  
-- 🤝 Build professional network in tech community  
-- 📈 Contribute to open-source projects regularly  
+### 🎯 Objectives
+- ![#FFB800](https://via.placeholder.com/15/FFB800/000000?text=+) Land my first developer role by end of 2025  
+- ![#00C4CC](https://via.placeholder.com/15/00C4CC/000000?text=+) Deploy 4+ production-ready projects with live demos  
+- ![#FF6C37](https://via.placeholder.com/15/FF6C37/000000?text=+) Master modern React patterns and TypeScript  
+- ![#8A2BE2](https://via.placeholder.com/15/8A2BE2/000000?text=+) Build professional network in tech community  
+- ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) Contribute to open-source projects regularly  
 
 ---
 
