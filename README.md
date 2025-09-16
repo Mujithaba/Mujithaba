@@ -17,6 +17,13 @@
 
 ---
 
+## 🎓 Education  
+**Bachelor of Computer Applications (BCA)**  
+📍 University of Calicut (2020 – 2023), Kerala, India  
+📊 CGPA: **7.0**  
+
+---
+
 ## 🚀 Skills & Tools  
 
 ### 🚨 Languages  
@@ -60,12 +67,7 @@
 
 ---
 
-## 🎓 Education  
-**Bachelor of Computer Applications (BCA)**  
-📍 University of Calicut (2020 – 2023), Kerala, India  
-📊 CGPA: **7.0**  
 
----
 
 ## 🤝 Let's Connect!  
 <p align="center">
