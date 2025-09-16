@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/Mujithaba">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Mujithaba;Full+Stack+Developer;MERN+Stack+Specialist;Always+learning+new+technologies!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohamed+Mujithaba;Full+Stack+Developer;MERN+Stack+Specialist;Always+learning+new+technologies!&font=Fira+Code">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 # 👋 About Me  
 
 💻 **Full Stack Developer | MERN Stack Specialist**  
-🌍 Based in **UAE** | ✉️ [mujithabaep772@gmail.com](mailto:mujithabaep772@gmail.com)  
+🌍 Based in **UAE** | ✉️ [Email](mailto:mujithabaep772@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mujithabaep772/) | [GitHub](https://github.com/Mujithaba) | [LeetCode](https://leetcode.com/u/mujithaba/)  
 
 ⚡ **Open for opportunities and collaborations!**
@@ -41,19 +41,19 @@
 
 ## 📂 Featured Projects  
 
-### 🎓 [CoursaTech – E-Learning Platform]  
+### 🎓 CoursaTech – E-Learning Platform 
 - Full-scale **E-learning platform** with **user, instructor & admin dashboards**.  
 - Features: Real-time chat, course management, secure payments.  
 - **Stack:** MERN, TypeScript, Redux, AWS S3, Razorpay, JWT, Google OAuth.  
 - [Frontend Repo](https://github.com/Mujithaba/CoursaTech__frontend) | [Backend Repo](https://github.com/Mujithaba/CoursaTech__backend) | [Live Demo](https://coursa-tech.vercel.app/)  
 
-### 🛒 [ShoeOne – E-Commerce Web App] 
+### 🛒 ShoeOne – E-Commerce Web App
 - Built cart, wishlist, order tracking & Razorpay integration.  
 - Created **admin dashboard with analytics** (boosted efficiency).  
 - **Stack:** Node.js, Express, MongoDB, EJS, Bootstrap, AWS EC2, Nginx.  
 - [Repo](https://github.com/Mujithaba/ShoeOne) | [Demo video](https://www.linkedin.com/posts/mujithabaep772_fullstackdev-innovation-shoeone-activity-7180852537212776449-nws3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcH-6oBOTcoLMW-UtzqpKMrmrCjNe-Cvi8)  
 
-### 📑 [PDF Extractor – Document Utility]
+### 📑 PDF Extractor – Document Utility
 - Secure PDF tool with **JWT authentication** & **selective page extraction**.  
 - **Stack:** React, Node.js, Express, MongoDB.  
 - [Frontend Repo](https://github.com/Mujithaba/PdfExtractor_Frontend) | [Backend Repo](https://github.com/Mujithaba/PdfExtractor_Backend)  
