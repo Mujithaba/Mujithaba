@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Mohamed Mujithaba  
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://github.com/Mujithaba">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Mujithaba;Full+Stack+Developer;MERN+Stack+Specialist;Always+learning+new+technologies!">
+  </a>
+</p>
+
+---
+
+# 👋 About Me  
 
 💻 **Full Stack Developer | MERN Stack Specialist**  
 🌍 Based in **UAE** | ✉️ [mujithabaep772@gmail.com](mailto:mujithabaep772@gmail.com)  
@@ -6,19 +15,7 @@
 
 ---
 
-## 🚀 About Me  
-I’m a **Full Stack Developer** with **1 year of hands-on experience** building **scalable web applications** using the **MERN stack**.  
-I love solving problems, building real-world applications, and learning modern technologies.  
-
-- ⚡ Skilled in **frontend & backend development**  
-- 🔌 Experienced in **RESTful APIs & real-time communication**  
-- ☁️ Cloud deployments on **AWS, DigitalOcean, Vercel, Render**  
-- 💳 Integrated **Payment Gateways (Razorpay)**  
-- 🛠️ Passionate about writing **clean, maintainable, and scalable code**  
-
----
-
-## 🛠️ Tech Stack  
+## 🚀 Skills & Tools  
 
 ### 🚨 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
@@ -60,24 +57,24 @@ I love solving problems, building real-world applications, and learning modern t
 ## 📂 Featured Projects  
 
 ### 🎓 [CoursaTech – E-Learning Platform](#)  
-- Built a full-scale **E-learning platform** with **user, instructor & admin dashboards**.  
+- Full-scale **E-learning platform** with **user, instructor & admin dashboards**.  
 - Features: Real-time chat, course management, secure payments.  
-- **Tech Stack:** MERN, TypeScript, Redux, AWS S3, Razorpay, JWT, Google OAuth.  
+- **Stack:** MERN, TypeScript, Redux, AWS S3, Razorpay, JWT, Google OAuth.  
 - [Frontend Repo](#) | [Backend Repo](#) | [Live Demo](#)  
 
 ---
 
 ### 🛒 [ShoeOne – E-Commerce Web App](#)  
-- Developed cart, wishlist, order tracking, and Razorpay integration.  
-- Built an **admin dashboard with analytics** (improved efficiency).  
-- **Tech Stack:** Node.js, Express, MongoDB, EJS, Bootstrap, AWS EC2, Nginx.  
+- Built cart, wishlist, order tracking & Razorpay integration.  
+- Created **admin dashboard with analytics** (boosted efficiency).  
+- **Stack:** Node.js, Express, MongoDB, EJS, Bootstrap, AWS EC2, Nginx.  
 - [Repo](#) | [Demo](#)  
 
 ---
 
 ### 📑 [PDF Extractor – Document Utility](#)  
-- Built a secure PDF tool with **JWT authentication** & **selective page extraction**.  
-- **Tech Stack:** React, Node.js, Express, MongoDB.  
+- Secure PDF tool with **JWT authentication** & **selective page extraction**.  
+- **Stack:** React, Node.js, Express, MongoDB.  
 - [Frontend Repo](#) | [Backend Repo](#)  
 
 ---
@@ -91,12 +88,20 @@ I love solving problems, building real-world applications, and learning modern t
 
 ## 📊 GitHub Stats  
 
-![Mujithaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mujithaba&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujithaba&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mujithaba&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujithaba&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujithaba&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect!  
-💌 [Email Me](mailto:mujithabaep772@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mujithabaep772/)  
-💻 [GitHub](https://github.com/Mujithaba)  
+<p align="center">
+  <a href="mailto:mujithabaep772@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mujithabaep772/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Mujithaba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
