@@ -10,7 +10,7 @@
 # 👋 About Me  
 
 💻 **Full Stack Developer | MERN Stack Specialist**  
-🌍 Based in **UAE** | ✉️ [mujithabaep772@gmail.com](mujithabaep772@gmail.com)  
+🌍 Based in **UAE** | ✉️MailTo: [mujithabaep772@gmail.com](mujithabaep772@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mujithabaep772/) | [GitHub](https://github.com/Mujithaba) | [LeetCode](https://leetcode.com/u/mujithaba/)  
 
 ⚡ **Open for opportunities and collaborations!**
