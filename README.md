@@ -1,4 +1,4 @@
-> <h2>👋 Hey there, I am **Mohamed Mujithaba</h2>**  
+> <h2>👋 Hey there, I am **Mohamed Mujithaba** </h2> 
 
 💻 I'm a **Full Stack Developer (MERN Stack)** based in the UAE, passionate about building scalable web applications, implementing real-time communication systems, and delivering seamless user experiences. Always learning new technologies and solving challenges with clean code.
 
